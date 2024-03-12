@@ -1,1 +1,1 @@
-This is a shell script that runs a python script
+Projects with Python and a little shell scripts and C
