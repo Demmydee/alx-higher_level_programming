@@ -1,4 +1,4 @@
-i#!/usr/bin/python3
+#!/usr/bin/python3
 """
 Lists all city objects from the database hbtn_0e_101_usa
 """
