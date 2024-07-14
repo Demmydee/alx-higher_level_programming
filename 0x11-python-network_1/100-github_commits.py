@@ -12,4 +12,4 @@ if __name__ == "__main__":
     req = requests.get(uri).json()
 
     for com in req[0:10]:
-        print(com['sha'] + ':', com['commit']['author']['name'])i
+        print(com['sha'] + ':', com['commit']['author']['name'])
